@@ -1,6 +1,5 @@
 # Hide-and-Seek
 
-Am realizat un joc care imita un boardgame ( Pirates Jr – Hide & Seek) in C++. 
-Acesta are o tabla de joc care contine 4 mini-harti(acestea contin barci cu steaguri albe/negre, cufere si alte obiecte ) si 4 piese sub diferite forme. Aceste piese se pot roti de la stanga la dreapta. Scopul jocului este sa afisati anumit obiecte din acele mini harti in conditiile in care trebuie sa punem aceste piese pe miniharti. Nu avem voie sa afiseze alte obiecte inafara de cele mentionate la inceputul rundei (cu exceptia apei).
+I made a game imitating a boardgame (Pirates Jr - Hide & Seek) in C++. It has a game board that contains 4 mini-maps (they contain boats with white/black flags, chests and other objects) and 4 pieces in different shapes. These pieces can rotate from left to right. The goal of the game is to display certain objects from those mini maps in the conditions in which we have to put these pieces on the mini maps. We are not allowed to display objects other than those mentioned at the beginning of the round (with the exception of water).
 
-Un exemplu : https://www.youtube.com/watch?v=bJ4QjQ2Rj0o&ab_channel=SmartGames
+Example : https://www.youtube.com/watch?v=bJ4QjQ2Rj0o&ab_channel=SmartGames
